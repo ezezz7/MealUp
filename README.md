@@ -1,7 +1,7 @@
 # 🥗 MealUp
 
-**MealUp** is a simple recipe browsing mobile app built with **React Native** and **Expo Router**, consuming data from **TheMealDB API**.  
-Users can search for meals, view details, and learn about the app.
+**MealUp** is a recipe browsing mobile app built with **React Native** and **Expo Router**, consuming data from **TheMealDB API**.  
+It permits users to search for meals, view details, and see a description about the app.
 
 ---
 
@@ -21,8 +21,6 @@ Users can search for meals, view details, and learn about the app.
 - [Expo Router](https://expo.dev/router)
 - [TheMealDB API](https://www.themealdb.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)
-- [Custom Fonts (Poppins)](https://fonts.google.com/specimen/Poppins)
 
 ---
 
